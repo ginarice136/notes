@@ -47,3 +47,8 @@ Remember that programming is not just about writing code, but also about problem
 Another piece of wisdom in programming is the importance of writing clean, well-structured,and modular code.This not only makes your code easier to understand and maintain, but also reduces the likelihood of errors and bugs. To achieve this, follow best practices such as using version control systems like Git, writing comments and documentation, organizing code into logical modules, using appropriate data structures, following coding conventions, avoiding global variables, minimizing dependencies, etc. 
  此外，编程智慧的另一个方面是学会与他人合作。在团队项目中，学会倾听他人的意见，尊重他人的专业知识，以及有效地沟通和协作，是成功完成项目的关键。通过提高你的沟通技巧和团队协作能力，你将能够在项目中发挥更大的作用，从而提高自己的职业价值。
  最后，保持耐心和毅力是编程成功的关键因素。编程可能会遇到许多挑战和困难，但通过不断学习和实践，你可以克服这些困难并不断提高自己的技能。保持积极的心态，相信自己有能力解决问题，这将帮助你成为一个成功的程序员。总之，今天的智慧是成为终身学习者，编写高质量的代码，与他人有效合作，并保持耐心与毅力。
+
+# 2023-11-27
+- "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rick Cook
+
+This quote highlights the ongoing challenge for programmers to create robust and user-friendly software, while also acknowledging the inevitability of encountering unexpected user behavior or input. It serves as a reminder to continually strive for excellence in programming, while also recognizing the inherent complexity and unpredictability of the systems we create.
