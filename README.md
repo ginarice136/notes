@@ -144,3 +144,10 @@ Optimizing code too early in the development process can lead to unnecessary com
 First, prioritize your tasks. When you're working on a project, there will always be multiple things that need to get done. By identifying which tasks are most important and which can wait, you can make sure that you focus on the right things at the Right time. Use a task management tool, such as Trello or Asana, to keep track of your work and make adjustments as needed. 
  -
 Next, planning ahead is crucial. Before starting a new project or undertaking a large task, take some time to think through the steps involved and create a plan. Will you need any new tools or libraries? How will you structure your code? What testing and debugging strategies will work best? By planning in advance,you can avoid getting stuck or spending too much time on something that wasn't properly considered.
+
+# 2023-12-17
+- Today's programming wisdom is to always keep learning and adapting to new technologies and programming languages. As the tech industry continues to evolve, it' s crucial to stay up-to-date with the latest trends and tools to remain competitive in the job market. Here are some tips to help you grow as a programmer:
+
+1. Learn new programming Languages: Expanding your skill set by learning new languages like Python, JavaScript, or Ruby can open up new opportunities and help with problem-solving.
+2. Stay up to date with technology: Read blogs, subscribe to newsletters, and attend conferences to keep up with industry trends, new tools, best practices, etc. This will help keep you ahead of the curve and make you a valuable asset to any team. 
+3. Practice continuous learning: Set aside time each week to learn new concepts, techniques, tools or languages that can help improve your programming skills. You can also join online communities, take online courses, attend meetups, workshops, seminars, to name a few. Continuous learning is the key to staying relevant in this fast-paced industry.
