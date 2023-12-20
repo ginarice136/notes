@@ -161,3 +161,6 @@ Next, planning ahead is crucial. Before starting a new project or undertaking a 
 Another important aspect of programming wise is problem-solving skills. When faced with a challenging problem, break it down into smaller, manageable tasks and use logical thinking to identify the best solution. Practice debugging code and learning from your mistakes, which will help you become a better programmer. 
  学习新技能和编程语言的能力也是编程智慧的组成部分。随着技术的发展，新的编程语言的出现，了解这些新技能将有助于你在职业生涯中取得成功。
 最后，编程的智慧是与他人合作的能力。在团队项目中，学会与他人沟通，分享知识和经验，这将有助于提高整个团队的生产力和效率。总之，成为一名终身学习者，不断提高自己的技能，保持对新技术的好奇心，并学会在团队合作中发挥作用，这些都是编程智慧和成功的关键。
+
+# 2023-12-20
+- "Keep it simple, stupid!"
