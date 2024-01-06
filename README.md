@@ -234,3 +234,6 @@ Second, always plan your day or week ahead of time. Write down your goals for th
 
 To be successful in the programming field, one must also have excellent communication and teamwork skills, as programming is a collaborative process. It is essential to effectively communicate with colleagues, clients,and other team members to ensure that the project is completed on time and within budget. Additionally, being able to break down complex problems into manageable tasks and prioritize tasks according to their importance and urgency is key. 
  - 来自NLP
+
+# 2024-01-06
+- "Keep it simple, stupid!"
