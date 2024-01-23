@@ -310,3 +310,8 @@ Additionally, "Write code today as if tomorrow you'll have to debug it. Invest t
 
 # 2024-01-22
 - "Keep it simple, stupid!"
+
+# 2024-01-23
+- "Today's programming wisdom: 'Premature optimization is the root of all evil' - Donald Knuth. Focus on writing clean, readable, and maintainable code first. Optimize only when necessary and after profiling, for it's often the case that a small number of critical sections impact performance significantly more than others." 
+
+In other words, as a programmer, don't waste time trying to optimize code before you understand where the real bottlenecks are. Write clear, well-structured code initially, then fine-tune later if and where needed, based on data-driven insights from profiling tools.
