@@ -354,3 +354,11 @@ In practice, this means:
 3. Use established patterns and libraries to avoid reinventing the wheel.
 4. Continuously refactor your code to eliminate unnecessary complexity.
 5. Remember that code is read far more often than it's written, so make it reader-friendly."
+
+# 2024-01-29
+- Today's programming wisdom is to be a lifelong learner and adapt to the ever-changing world of technology. This means staying up-to-date with the latest programming languages, frameworks, and tools, as well as understanding the principles of software development and design. By constantly learning and improving your skills, you will become a more valuable asset to your team or organization.
+
+Another important aspect of programming wise is communication. As a programmer, it is essential to work closely with other team members, such as designers, product managers, or clients. Effective communication helps to ensure that everyone is on the same page and that the project stays on track. Learn to clearly express your ideas and thoughts, both orally and in writing, to foster a collaborative environment. 
+ - 来自助手的补充：
+ 在编程领域，终身学习是非常重要的。这意味着要跟上最新的编程语言、框架和工具的发展，并理解软件开发与设计的基本原则。通过不断学习和提高技能，你将成为团队或组织中更有价值的成员。
+此外，编程智慧的另一个重要方面是沟通。程序员需要与其他团队成员（如设计师、产品经理或客户）密切合作。有效的沟通有助于确保每个人都站在同一立场，项目保持在正确的轨道上。学会清晰、简洁地表达你的想法和观点，无论是口头还是书面，都有助于营造一个协作的工作环境。
